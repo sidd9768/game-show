@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+#gameShowHeader{
+  margin: 0;
+  padding: 2rem;
+  font-family: monospace;
+  font-size: 5rem;
+  background-color: aliceblue;
+}
+
+#game_category{
+  width:100%;
+  background-color:black;
+  height:5em;
+  text-align: center;
+  list-style-type: none;
+  color: white;
+}
+
+.nav {
+  padding-inline-start: 0;
+  list-style: none;
+  display: inline-block;
+}
+
+.nav-items{
+  font-family: fantasy;
+  font-size: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+ul {
+  text-align: center;
+}
+
+.game_item_list {
+  margin: 2rem;
+  padding-inline-start: 0;
+  list-style: none;
+}
+
+#game_list {
+  font-weight: bold;
+  font-family: monospace;
+  padding: 2rem;
+  list-style: none;
+  text-align: center;
+  border: 1px solid black;
+}
+
